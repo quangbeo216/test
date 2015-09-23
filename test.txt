@@ -1,2 +1,5 @@
+<<<<<<< HEAD
 nhap chu
 nhap so
+=======
+>>>>>>> parent of 9214ecd... nhap chu
